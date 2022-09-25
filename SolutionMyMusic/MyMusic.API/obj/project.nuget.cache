@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "baJDo+6w3WZETLBezp/YqDk2JWwe5uB9RxoFQhCTHjpssndPZpy+uSqee37p8Q81VJtZCl4Yq0yVrgy8sUSARA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shrikant.Mahajan\\source\\repos\\MyMusicApp\\SolutionMyMusic\\MyMusic.API\\MyMusic.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shrikant.Mahajan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Shrikant.Mahajan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Shrikant.Mahajan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shrikant.Mahajan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shrikant.Mahajan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shrikant.Mahajan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

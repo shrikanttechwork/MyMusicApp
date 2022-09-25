@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SLCsMFfdcDw81lbDYMhmtrhOTkJqoFXg2eApgTjc5QI=",
+  "Source": "MyMusic.API",
+  "BasePath": "_content/MyMusic.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

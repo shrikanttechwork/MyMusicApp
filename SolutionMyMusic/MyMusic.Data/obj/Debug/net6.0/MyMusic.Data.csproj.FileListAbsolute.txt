@@ -1,0 +1,12 @@
+C:\Users\Shrikant.Mahajan\source\repos\SolutionMyMusic\MyMusic.Data\bin\Debug\net6.0\MyMusic.Data.deps.json
+C:\Users\Shrikant.Mahajan\source\repos\SolutionMyMusic\MyMusic.Data\bin\Debug\net6.0\MyMusic.Data.dll
+C:\Users\Shrikant.Mahajan\source\repos\SolutionMyMusic\MyMusic.Data\bin\Debug\net6.0\MyMusic.Data.pdb
+C:\Users\Shrikant.Mahajan\source\repos\SolutionMyMusic\MyMusic.Data\obj\Debug\net6.0\MyMusic.Data.csproj.AssemblyReference.cache
+C:\Users\Shrikant.Mahajan\source\repos\SolutionMyMusic\MyMusic.Data\obj\Debug\net6.0\MyMusic.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shrikant.Mahajan\source\repos\SolutionMyMusic\MyMusic.Data\obj\Debug\net6.0\MyMusic.Data.AssemblyInfoInputs.cache
+C:\Users\Shrikant.Mahajan\source\repos\SolutionMyMusic\MyMusic.Data\obj\Debug\net6.0\MyMusic.Data.AssemblyInfo.cs
+C:\Users\Shrikant.Mahajan\source\repos\SolutionMyMusic\MyMusic.Data\obj\Debug\net6.0\MyMusic.Data.csproj.CoreCompileInputs.cache
+C:\Users\Shrikant.Mahajan\source\repos\SolutionMyMusic\MyMusic.Data\obj\Debug\net6.0\MyMusic.Data.dll
+C:\Users\Shrikant.Mahajan\source\repos\SolutionMyMusic\MyMusic.Data\obj\Debug\net6.0\refint\MyMusic.Data.dll
+C:\Users\Shrikant.Mahajan\source\repos\SolutionMyMusic\MyMusic.Data\obj\Debug\net6.0\MyMusic.Data.pdb
+C:\Users\Shrikant.Mahajan\source\repos\SolutionMyMusic\MyMusic.Data\obj\Debug\net6.0\ref\MyMusic.Data.dll
